@@ -12,7 +12,7 @@ Program był testowany jedynie na Linuxie z procesorem Intel x86_64. Nie wiem, c
 
 Po uruchomieniu programu można wprowadzać polecenia przez standardowe wejście.
 
-Program domyślnie działa w przedziale od 0 do 256, imitując sytuację, w której mikroprocesor MSP430 działa jako generator bez ograniczeń. Każde polecenie ustawia nowy przedział.
+Program domyślnie działa w przedziale od 0 do 256, imitując sytuację, w której mikroprocesor MSP430 działa jako generator bez ograniczeń. 
 
 - `<` - zmniejsza przedział o 1 z każdej strony.
 - `>` - zwiększa przedział o 1 z każdej strony.
